@@ -1,20 +1,20 @@
 {
-  "businessName": "Business Name",
+  "businessName": "Just Right Roofing and Construction",
   "establishedYear": "2011",
   "phone": {
-    "formatted": "(000) 000-0000",
-    "raw": "0000000000"
+    "formatted": "(937) 247-4926",
+    "raw": "9372474926"
   },
   "location": {
-    "cityState": "City, ST"
+    "cityState": "Miamisburg, OH"
   },
   "recentWorkCities": [
-    "City 1",
-    "City 2",
-    "City 3"
+    "Miamisburg",
+    "Centerville",
+    "Springboro"
   ],
   "reviewCities": [
-    "City 1",
-    "City 2"
+    "Miamisburg",
+    "Centerville"
   ]
 }
